@@ -6,8 +6,10 @@ The project is divided into three sections, categorized into analyses(asking a c
 ### Section 1:
 Under this section, a business problem was thrown and solved using the dataset. The question revolved round the profitability of the industries under the financial sector using the gross margin guage.
 Visualizations and quick insights were then used to solve the challenge and was then saved in the `Business Guage` file attached.
-
-
-
-
-
+### Section 2:
+Here, a dashboard for a Profit and Loss(P&L) Statement which calculates the Gross Profit, Operating Profit(EBIT) for all companies under the NYSE industries(each company selected from a drop-down list) was created. The drop-down list pulled historical fundamentals data used to create the P&L Statement.
+A static view of the spreadsheet named `Profit and Loss Statement` was attached.
+### Section 3:
+A financial model for the company with ticker symbol KEY was built. The model forecasted out the Gross Profit, Operating Profit or EBIT for two more years using the three cases scenarios (Strong case, Base case and Weak case) selected from a drop-down menu, while the assumptions for revenue growth, gross margin, and operating margin changed for each scenario selected.
+A screenshot of the model `Business Forecast` was attached.
+To view the interactive spreadsheets, please [go to]
