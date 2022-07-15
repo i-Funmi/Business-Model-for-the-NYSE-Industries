@@ -12,4 +12,6 @@ A static view of the spreadsheet named `Profit and Loss Statement` was attached.
 ### Section 3:
 A financial model for the company with ticker symbol KEY was built. The model forecasted out the Gross Profit, Operating Profit or EBIT for two more years using the three cases scenarios (Strong case, Base case and Weak case) selected from a drop-down menu, while the assumptions for revenue growth, gross margin, and operating margin changed for each scenario selected.
 A screenshot of the model `Business Forecast` was attached.
-To view the interactive spreadsheets, please [go to]
+To view the interactive spreadsheets, please [go to](https://1drv.ms/x/s!AvUmqQsdXIkccdk7KZqouSb02X8)
+## Conclusion:
+With the dashboard and model built, the companies now know their losses and gains, where more money is being spent and where more is being earned. These would help them become more aware They now know what to expect in the future and make better plans against the **future**. 
